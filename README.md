@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @monodilo
+- 👀 I’m interested in Roblox modules
+- 🌱 I’m currently learning Lua and possible C, C#, C++ in the future
+- 💞️ I’m looking to collaborate on some cool roblox projects
+- 📫 How to reach me monodilo.social@gmail.com
